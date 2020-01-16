@@ -1,6 +1,6 @@
 {
   "name": "@pooltogether/walletlink",
-  "version": "1.0.0-next-fix",
+  "version": "1.0.0-nextjs-9.2.0-fix",
   "description": "WalletLink JavaScript SDK - forked with fix for NextJS 9.2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
